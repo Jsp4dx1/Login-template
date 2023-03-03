@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559393006422",
+    "project_id": "logdb-ec485",
+    "storage_bucket": "logdb-ec485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559393006422:android:035d2083f530034a396cf7",
+        "android_client_info": {
+          "package_name": "com.example.log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559393006422-gh972j458ha06vfmd0as958g8818ranu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeuLqovbBzFWlfY_1Tjc1BTrbdKF8kqsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559393006422-gh972j458ha06vfmd0as958g8818ranu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
